@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+p {
+    font-size: 300%;
+}
+
+.smallParagraph{
+    font-size: 15px;
+    color: purple;
+    text-align: center;
+}
