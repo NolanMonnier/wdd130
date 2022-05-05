@@ -14,22 +14,7 @@ td {
     padding: 10px;
 }
 
-.blueTable tr:nth-child(even) td:nth-child(even) {
-    background-color: red;
-    color: red
+.blueTable tr:nth-child(even) {
+    background-color: rgba(0, 255, 255, 0.473);
    }
     
-   .blueTable tr:nth-child(odd) td:nth-child(odd) {
-    background-color: red;
-    color: red
-   }
-    
-   .blueTable tr:nth-child(even) td:nth-child(odd) {
-    background-color: blue;
-    color: blue
-   }
-    
-   .blueTable tr:nth-child(odd) td:nth-child(even) {
-    background-color: blue;
-    color: blue
-   }
