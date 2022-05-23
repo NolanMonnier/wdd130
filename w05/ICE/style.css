@@ -1,0 +1,41 @@
+.home-grid{
+    display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+column-gap: 50px;
+}
+
+img.bubbles{
+    height: auto;
+    width: 800px;
+    grid-column: 1/4;
+}
+
+img.desk{
+    border-radius: 50%;
+    width: 20%;
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+img.graphic{
+    border-radius: 50%;
+    width: 20%;
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+img.person{
+    border-radius: 50%;
+    width: 20%;
+    grid-column: 3/4;
+    margin-left: 50;
+    grid-row: 2/3;
+}
+
+.bottom{
+    background-color: #737373;
+    width: 800px;
+    height: 200px;
+    margin-top: 0px;
+    padding-top: 75px;
+}
