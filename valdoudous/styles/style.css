@@ -118,6 +118,12 @@ img{
     row-gap: 10%;
 }
 
+.pics{
+    border: 10px solid #FFEFFB;
+    box-shadow: 5px 5px 10px #6f7364;
+    background-color: #FFEFFB;
+}
+
 #productsTitle{
     margin-top: 10%;
     grid-row: 1;
