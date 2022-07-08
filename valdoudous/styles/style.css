@@ -36,7 +36,28 @@ body{
     padding: 0;
 }
 
-#content {
+#faq{
+    margin-bottom: -15%;
+}
+
+#about_us, 
+#faq,
+#contact_us{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#about_us img{
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+
+.prices img{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+.content {
     max-width: 1600px;
     margin: 0 auto;
 }
@@ -271,6 +292,6 @@ footer .social img{
         margin: 0 auto;
     }
     footer {
-        margin-top: 25px;
+        margin-top: 30%;
     }
 }
