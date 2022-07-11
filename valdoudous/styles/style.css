@@ -220,6 +220,24 @@ img{
     grid-column: 8;
 }
 
+.testimony{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+#testimonials
+img{
+    margin-top: 13%;
+    margin-bottom: 2%;
+    width: 50%;
+}
+
+#testimonials{
+    margin-bottom: -15%;
+}
+
+
 footer{
     background-color: #FFEFFB;
     font-size: 1em;
